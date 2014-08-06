@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">WearDeneme</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="map">Hello Map!</string>
+    <string-array name="reply_choices">
+        <item>Google Maps</item>
+        <item>Google</item>
+        <item>Youtube</item>
+    </string-array>
+    <string name="label">Tıklayın</string>
+
+
+</resources>
